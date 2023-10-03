@@ -5,7 +5,7 @@ Desafio de Projeto da DIO
 Este é um relatorio de Processamento e transfromação de Ddaos de alto desempenho, projetada para simplificar e tornar seguras as vizualizações e tomadas de decisões por parte de gestores. Com este relatorio , é possivel verificar diversas Informações sobre funcionarios, salarios e Horas trabalhadas.
 
 
-## :closed_book:Componentes Principais
+## :closed_book:Componentes Principais.
 
 - **Processamento de Dados Simplificado com Power BI** 
 
