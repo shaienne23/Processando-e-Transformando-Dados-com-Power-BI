@@ -34,7 +34,7 @@ Fique à vontade para contribuir com melhorias, correções de bugs ou novos rec
 
 **Relatorio de Dados -** Demos enfase a apresentação dos diversos graficos que constam do relatório de vendas.
 
-![Processando e Transformando Dados](https://github.com/shaienne23/Relatorio-Vendas-Power-BI/blob/main/Pagina%201%20-%20Desafio%20Projeto%20Dio.PNG)
+![Processando e Transformando Dados](https://github.com/shaienne23/Processando-e-Transformando-Dados-com-Power-BI/blob/main/Processando%20e%20transformando%20dados%20em%20Power%20BI.PNG)
 
 
 <h2>✒️ Autora</h2>
